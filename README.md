@@ -1,5 +1,7 @@
 <h2>Hi,I'm ChengGuangHao! 👋</h2>
     <div align="center"> 
+        <p>![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130)
+    </p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReturnTmp&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ReturnTmp&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
             <strong
@@ -8,5 +10,4 @@
         >Gitee地址</a
       >
     </strong>
-    <p>![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130)
-    </p>
+
