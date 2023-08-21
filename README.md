@@ -14,7 +14,6 @@
 
 [![](https://img.shields.io/badge/-Github-white?logo=github&logoColor=181717&style=for-the-badge&labelColor=dddddd&color=777777)](https://github.com/ReturnTmp)
 [![](https://img.shields.io/badge/-Gitee-white?logo=gitee&logoColor=C71D23&style=for-the-badge&labelColor=dddddd&color=777777)](https://gitee.com/cheng-guanghao)
-
 [![](https://img.shields.io/badge/-CSDN-white?logo=blogger&logoColor=fc5531&style=for-the-badge&labelColor=dddddd&color=777777)](https://blog.csdn.net/m0_63748493)
 [![](https://img.shields.io/badge/-阿里云社区-white?logo=alibabacloud&logoColor=FF6A00&style=for-the-badge&labelColor=dddddd&color=777777)](https://developer.aliyun.com/profile/expert/brvtpsgtyv3wy)
 [![](https://img.shields.io/badge/-掘金-white?logo=bytedance&logoColor=3C8CFF&style=for-the-badge&labelColor=dddddd&color=777777)](https://juejin.cn/user/602973172145479)
@@ -23,6 +22,12 @@
 [![](https://img.shields.io/badge/-InfoQ-white?logo=infoq&logoColor=2C6CAF&style=for-the-badge&labelColor=dddddd&color=777777)](https://developer.aliyun.com/profile/expert/brvtpsgtyv3wy)
 
 
+[![](https://img.shields.io/badge/-Java-white?logo=openjdk&logoColor=000000&style=for-the-badge&labelColor=dddddd&color=777777)]()
+[![](https://img.shields.io/badge/-CPP-white?logo=cplusplus&logoColor=000000&style=for-the-badge&labelColor=dddddd&color=777777)]()
+[![](https://img.shields.io/badge/-GO-white?logo=go&logoColor=000000&style=for-the-badge&labelColor=dddddd&color=777777)]()
+[![](https://img.shields.io/badge/-python-white?logo=python&logoColor=000000&style=for-the-badge&labelColor=dddddd&color=777777)]()
+[![](https://img.shields.io/badge/-JS-white?logo=javascript&logoColor=000000&style=for-the-badge&labelColor=dddddd&color=777777)]()
+[![](https://img.shields.io/badge/-TS-white?logo=typescript&logoColor=000000&style=for-the-badge&labelColor=dddddd&color=777777)]()
 
 
 
